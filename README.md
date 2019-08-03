@@ -11,5 +11,5 @@ This is a template for basic CRUD operations in Object Oriented PHP and MySQL ba
   * connect
   * execute DML commands
   * retrieve data
-* Use of Bootstrap for the layout
+* Use of Bootstrap for the layout, jQuery/Bootstrap for modal message window
 * Pagination
