@@ -1,6 +1,6 @@
 # OOP PHP CRUD Template
 
-This is a template for basic CRUD operations in Object Oriented PHP and MySQL based on a CODEOFANINJA (codeofaninja.com) tutorial.
+This is a template for basic CRUD operations in Object Oriented PHP and MySQL.
 
 ## Some hightlights:
 
@@ -16,3 +16,6 @@ This is a template for basic CRUD operations in Object Oriented PHP and MySQL ba
 
 ## Live application
 https://niltonpaes.website/php_templates/php_template_crud_oop/
+
+## Reference
+Codeofaninja Tutorials - codeofaninja.com
