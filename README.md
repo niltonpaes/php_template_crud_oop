@@ -1,6 +1,6 @@
 # OOP PHP CRUD Template (PHP, MySQL)
 
-This is a Object Oriented PHP template for basic CRUD operations.
+This is an Object Oriented PHP template for basic CRUD operations.
 
 ## Hightlights:
 
