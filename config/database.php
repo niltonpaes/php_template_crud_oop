@@ -1,11 +1,18 @@
 <?php
 class Database{
   
-    // specify your own database credentials
-    private $host = "localhost";
-    private $db_name = "php_template_crud_oop";
-    private $username = "root";
-    private $password = "";
+    // specify your own database credentials - MAC
+    // private $host = "localhost:8889";
+    // private $db_name = "php_template_crud_oop";
+    // private $username = "root";
+    // private $password = "root";
+
+    // specify your own database credentials - Hostinger
+    private $host = "127.0.0.1:3306";
+    private $db_name = "u806017736_crud_oop";
+    private $username = "u806017736_crud_oop";
+    private $password = "slaughter#SQL23";
+
     public $conn;
   
     // get the database connection

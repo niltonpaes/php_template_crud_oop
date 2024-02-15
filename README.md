@@ -1,21 +1,17 @@
-# OOP PHP CRUD Template
+# OOP PHP CRUD Template (PHP, MySQL)
 
-This is a template for basic CRUD operations in Object Oriented PHP and MySQL.
+This is a Object Oriented PHP template for basic CRUD operations.
 
-## Some hightlights:
+## Hightlights:
 
 * OOP
-  * /objects/category.php
-  * /objects/product.php
-* Use of PDO extension to connect to MySQL (config/database.php)
-  * connect
-  * execute DML commands
-  * retrieve data
-* Use of Bootstrap for the layout, jQuery/Bootstrap for modal message window
+* PDO extension to communincate with MySQL
+* Bootstrap
 * Pagination
+* MySQL
 
 ## Live application
-https://niltonpaes.website/php_templates/php_template_crud_oop/
+https://phptemplates.swtas.com/php_template_crud_oop/
 
 ## Reference
 Codeofaninja Tutorials - codeofaninja.com
