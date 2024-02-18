@@ -5,7 +5,7 @@ This is an Object Oriented PHP template for basic CRUD operations.
 ## Highlights:
 
 * OOP
-* PDO extension to communincate with MySQL
+* PDO extension for MySQL communication
 * Bootstrap
 * Pagination
 * MySQL
